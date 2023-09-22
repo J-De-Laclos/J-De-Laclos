@@ -30,7 +30,7 @@ Je suis Jonathan Fruteau de Laclos, un développeur passionné par la création 
 
 - 🌐 [Projet Marvel React](https://github.com/J-De-Laclos/Frontend-Marvel) - Une application web React utilisant l'API Marvel pour afficher des informations sur les personnages et les comics de l'univers Marvel.
 
-- 🛒 [Vinted Clone](https://github.com/VotreNom/Vinted-Clone) - Une réplique locale de Vinted, la célèbre plateforme de vente en ligne, développée avec React.
+- 🛒 [Vinted Clone](https://github.com/J-De-Laclos/vinted-frontend.git) - Une réplique locale de Vinted, la célèbre plateforme de vente en ligne, développée avec React.
 
 ## Contact
 
